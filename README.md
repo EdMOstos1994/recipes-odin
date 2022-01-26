@@ -4,3 +4,4 @@
 <p>
 I will try to use all the skills I have learnt so far, during the whole day I have been learning and getting my head around all the different terms, processes and mechanics of <strong>html</strong>.
 </p>
+<!--comentario que no dice nada-->
